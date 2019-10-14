@@ -13,6 +13,10 @@
 - [ ] Did you plot univariate and multivariate summaries of the data?
 - [ ] Did you check for outliers?
 - [ ] Did you identify the missing data code?
+- [ ] Did you consider whether the question could be answered with the available data?
+- [ ] If classification, did you check the balance of labels?
+- [ ] If applicable, is there any categorical variables?
+
 
 ## 3. Tidying the Data
 
@@ -32,6 +36,7 @@
 - [ ] Did you try to identify any errors or miscoding of variables?
 - [ ] Did you consider plotting on a log scale?
 - [ ] Would a scatterplot be more informative?
+- [ ] If applicable, did you convert categorical variables to numeric?
 
 ## 5. Inference
 
